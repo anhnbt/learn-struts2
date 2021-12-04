@@ -1,2 +1,7 @@
-D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\MessageStore.java
-D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\HelloWorldAction.java
+D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\model\MessageStore.java
+D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\action\Register.java
+D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\action\Login.java
+D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\model\Person.java
+D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\utils\DBConnection.java
+D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\exceptions\SecurityBreachException.java
+D:\learn\hanoi-aptech\basic-struts\src\main\java\vn\aptech\action\HelloWorld.java

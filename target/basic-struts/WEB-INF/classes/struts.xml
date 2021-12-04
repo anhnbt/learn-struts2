@@ -22,6 +22,12 @@
             <result name="success">/thankyou.jsp</result>
         </action>
         
+        <action name="login" class="vn.aptech.action.Login" method="execute">
+            <result name="input">/login.jsp</result>
+            <result name="success">/home.jsp</result>
+            <result name="error">/login.jsp</result>
+        </action>
+        
         <action name="registerInput" class="vn.aptech.action.Register" method="input">
             <result name="input">/register.jsp</result>
         </action>
